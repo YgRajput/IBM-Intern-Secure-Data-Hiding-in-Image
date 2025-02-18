@@ -16,7 +16,7 @@ Ensure you have Python 3 and git installed, then install OpenCV:
      
 Clone the repository:
 
-     git clone https://github.com/Nishant9592/SteganoCrypt.git
+     git clone https://github.com/YgRajput/IBM-Intern-Secure-Data-Hiding-in-Image.git
 # ⚡ Usage
 ### 🔒 Encrypt a Message into an Image
 
