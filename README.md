@@ -28,7 +28,8 @@ Clone the repository:
 - Provide the secret message to hide.
 - Set a passcode for protection.
 - The encrypted image is saved!
-#🔑🔑 About Encrypted Image
+
+#🖼️ About Encrypted Image
 - Encrypted Image Password:–1234.
 - Encrypted Secret Data: – "Yogesh Uddalsing Rajput is Studant".
 
