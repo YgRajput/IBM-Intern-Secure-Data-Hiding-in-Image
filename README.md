@@ -8,9 +8,6 @@ C
 - Passcode Protection – Ensures only authorized access.
 - Simple & Fast – Uses OpenCV and standard Python libraries.
 - No External Dependencies – Works without NumPy.
-# About Encrypted Image
-- Encrypted Image Password:–1234.
-- Encrypted Secret Data: – "Yogesh Uddalsing Rajput is Studant".
 
 # 📦 Installation
 
@@ -31,6 +28,9 @@ Clone the repository:
 - Provide the secret message to hide.
 - Set a passcode for protection.
 - The encrypted image is saved!
+#🔑🔑 About Encrypted Image
+- Encrypted Image Password:–1234.
+- Encrypted Secret Data: – "Yogesh Uddalsing Rajput is Studant".
 
 ### 🔑 Decrypt a Hidden Message
 
