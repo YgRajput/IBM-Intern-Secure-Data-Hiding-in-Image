@@ -21,6 +21,8 @@ Ensure you have Python 3 and git installed, then install OpenCV:
 Clone the repository:
 
      git clone https://github.com/YgRajput/IBM-Intern-Secure-Data-Hiding-in-Image.git
+# Linkdin     
+     https://www.linkedin.com/posts/yogesh-rajput-964913219_internship-offer-later-activity-7294757892853833728-pG2B?utm_source=share&utm_medium=member_desktop&rcm=ACoAADchZpwBSjCsAjNZ5GWlIs_WcUxXtWtWKTY
 # ⚡ Usage
 ### 🔒 Encrypt a Message into an Image
 
