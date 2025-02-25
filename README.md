@@ -3,11 +3,14 @@
 SteganoCrypt allows you to securely hide secret messages inside images using Least Significant Bit (LSB) encoding. It ensures safe message embedding and retrieval using a passcode.
 # 🚀 Features
 
-- Encrypt Messages – Hide text inside an image using LSB.
+C
 - Decrypt Messages – Extract hidden messages with a passcode.
 - Passcode Protection – Ensures only authorized access.
 - Simple & Fast – Uses OpenCV and standard Python libraries.
 - No External Dependencies – Works without NumPy.
+# About Encrypted Image
+-Encrypted Image Password:-1234
+-Encrypted Secret Data:- "Yogesh Uddalsing Rajput is Studant"
 # 📦 Installation
 
 Ensure you have Python 3 and git installed, then install OpenCV:
