@@ -1,6 +1,9 @@
 # 🖼️ SteganoCrypt - Image Steganography Tool
 
 SteganoCrypt allows you to securely hide secret messages inside images using Least Significant Bit (LSB) encoding. It ensures safe message embedding and retrieval using a passcode.
+# 🖼️ About Encrypted Image
+- Encrypted Image Password:–1234.
+- Encrypted Secret Data: – "Yogesh Uddalsing Rajput is Studant".
 # 🚀 Features
 
 C
@@ -28,10 +31,6 @@ Clone the repository:
 - Provide the secret message to hide.
 - Set a passcode for protection.
 - The encrypted image is saved!
-
-#🖼️ About Encrypted Image
-- Encrypted Image Password:–1234.
-- Encrypted Secret Data: – "Yogesh Uddalsing Rajput is Studant".
 
 ### 🔑 Decrypt a Hidden Message
 
