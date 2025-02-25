@@ -9,8 +9,9 @@ C
 - Simple & Fast – Uses OpenCV and standard Python libraries.
 - No External Dependencies – Works without NumPy.
 # About Encrypted Image
--Encrypted Image Password:-1234
--Encrypted Secret Data:- "Yogesh Uddalsing Rajput is Studant"
+- Encrypted Image Password:–1234.
+- Encrypted Secret Data: – "Yogesh Uddalsing Rajput is Studant".
+
 # 📦 Installation
 
 Ensure you have Python 3 and git installed, then install OpenCV:
