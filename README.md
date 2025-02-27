@@ -1,3 +1,4 @@
+# Secure Data handing in image Using Statenography
 # 🖼️ SteganoCrypt - Image Steganography Tool
 
 SteganoCrypt allows you to securely hide secret messages inside images using Least Significant Bit (LSB) encoding. It ensures safe message embedding and retrieval using a passcode.
