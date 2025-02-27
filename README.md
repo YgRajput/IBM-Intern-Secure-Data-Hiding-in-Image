@@ -21,7 +21,7 @@ Ensure you have Python 3 and git installed, then install OpenCV:
      
 Clone the repository:
 
-     git clone https://github.com/YgRajput/IBM-Intern-Secure-Data-Hiding-in-Image.git
+     https://github.com/YgRajput/Secure-Data-handing-in-image-Using-Statenography
 # Linkdin     
      https://www.linkedin.com/posts/yogesh-rajput-964913219_internship-offer-later-activity-7294757892853833728-pG2B?utm_source=share&utm_medium=member_desktop&rcm=ACoAADchZpwBSjCsAjNZ5GWlIs_WcUxXtWtWKTY
 # ⚡ Usage
